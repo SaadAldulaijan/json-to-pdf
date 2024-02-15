@@ -1,0 +1,20 @@
+{
+  "one": {
+    "entityType": "1",
+    "mainEntityName": "main",
+    "location": {
+      "lat": 24.760899057787245,
+      "lng": 46.713180116210935
+    },
+    "companyOwners": [
+      {
+        "id": 1,
+        "name": "رائد الجارالله"
+      },
+      {
+        "id": 2,
+        "name": "سعد الدليجان"
+      }
+    ]
+  }
+}

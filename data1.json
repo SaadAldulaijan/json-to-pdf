@@ -1,0 +1,128 @@
+{
+  "one": {
+    "entityType": "1",
+    "mainEntityName": "main",
+    "location": {
+      "lat": 24.760899057787245,
+      "lng": 46.713180116210935
+    },
+    "companyOwners": [
+      {
+        "id": 1,
+        "name": "رائد الجارالله",
+        "nationality": "السعودية",
+        "percentage": 50
+      },
+      {
+        "id": 2,
+        "name": "سعد الدليجان",
+        "nationality": "السعودية",
+        "percentage": 50
+      }
+    ],
+    "subEntityName": "sub",
+    "isForeigner": 0,
+    "established": 1,
+    "cRNumber": "2342342",
+    "cRExpiry": "12/2/2024",
+    "cRAtt": null,
+    "country": "البحرين",
+    "city": "ewrew",
+    "nationalAddress": "7e937ed9-38a4-77db-b4bb-3a0fc1ade9dd",
+    "foreignInvestmentLicenseAtt": null
+  },
+    "two": {
+        "repName": "werw",
+        "repEmail": "d@d.d",
+        "repConfirmEmail": "d@d.d",
+        "repPhone": "0201446554",
+        "entityHeadName": "ثقفلقث",
+        "entityHeadEmail": "d@d.d",
+        "confirmEmail": "d@d.d",
+        "entityHeadPhone": "0502011555",
+        "alternativePhone": null
+    },
+    "three": {
+        "sector": "WaterAndElectricity",
+        "requestType": "New",
+        "projectType": "DoubleProduction",
+        "aboutProject": "tretyer",
+        "projectLandArea": 55,
+        "allocationLetter": "84df1c54-1fd0-d65d-49b0-3a0fc1beb4b1",
+        "region": "AlQassim",
+        "city": "tyu",
+        "location": {
+            "lat": 24.778629077697424,
+            "lng": 46.78047137597656
+        },
+        "expectedLaunchDate": "2024-01-02",
+        "commercialOperationDate": "2023-12-31",
+        "projectOwners": [
+            {
+                "id": 1,
+                "name": "سعد",
+                "percentage": 25
+            },
+            {
+                "id": 2,
+                "name": "محمد",
+                "percentage": 25
+            },
+            {
+                "id": 3,
+                "name": "أحمد",
+                "percentage": 50
+            }
+        ]
+    },
+    "four": {
+        "ecategories": [
+            {
+                "category": "Fuel",
+                "qty": 22,
+                "type": "Drygas"
+            },
+            {
+                "category": "Fuel",
+                "qty": 22,
+                "type": "Drygas"
+            },
+            {
+                "category": "Fuel",
+                "qty": 22,
+                "type": "Drygas"
+            },
+            {
+                "category": "Fuel",
+                "qty": 22,
+                "type": "Drygas"
+            }
+        ],
+        "utilityFuel": {
+            "generatingUnitsReservoirsCap": 22,
+            "electricityConsumptionRate": 22,
+            "fuelEfficiency": 22,
+            "electricityProductionCap": 22,
+            "fuelTypeIfExist": "Drygas",
+            "tankVolumeIfExist": 22,
+            "planningGenerationUnits": "d13ad15b-a5c2-7e53-672c-3a0fc1bf0886",
+            "generatingUnitsNo": 22,
+            "generatingUnitsFactor": 22,
+            "annualOperatingYears": 22,
+            "generationUnitsTechSpec": "3def8dd4-2d22-5275-2349-3a0fc1bf1f22",
+            "targetedTech": "e4543790-af7f-c9b7-2ad7-3a0fc1bf2892",
+            "electricalLoads": "64969047-159e-e15a-2025-3a0fc1bf326c",
+            "sequestration": 2,
+            "steamProductionCap": 22
+        }
+    },
+    "five": {
+        "productionProcessExplain": "aaa",
+        "pFD": "تفاصيل",
+        "industrialLicense": "الملف",
+        "companyGOSI": "لايوجد",
+        "heatAndPowerBalance": 1288525,
+        "financialModel": "دراسة الجدوى",
+        "feasibilityStudy": "دراسة الجدوى المالية"
+    }
+}
